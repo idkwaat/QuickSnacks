@@ -1,0 +1,1609 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Healthy Snacks",
+            "category": "Loại 1"
+        },
+        {
+            "id": 2,
+            "name": "Snacks for kids",
+            "category": "Loại 2"
+        },
+        {
+            "id": 3,
+            "name": "Easy on stomach snacks",
+            "category": "Loại 3"
+        },
+        {
+            "id": 4,
+            "name": "Smoothies",
+            "category": "Loại 4"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": 1,
+            "name": "Chicken breast",
+            "description": "Health benefits: Nuts are high in fiber, protein, healthy fats (omega-3), and minerals like magnesium and zinc. They help control weight, reduce the risk of cardiovascular disease and promote brain health.",
+            "image": "../assets/images/ingredients/Chicken breast.jpg",
+            "price": 14,
+            "thongtin": "Chicken breast is a lean cut of white meat that is low in fat and high in protein. \n + It can be grilled, sautéed, or used in salads. This versatile ingredient can be seasoned with a variety of spices to enhance flavor.",
+            "noimua": "Available at major supermarkets such as Big C, Co.opmart, or local markets."
+        },
+        {
+            "id": 2,
+            "name": "Asparagus",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Asparagus.jpg",
+            "price": 14,
+            "thongtin": "Asparagus is a green vegetable rich in vitamins and minerals. \n It can be roasted, steamed, or sautéed and is often served as a side dish or incorporated into salads and pasta.",
+            "noimua": "Found in supermarkets or organic food markets."
+        },
+        {
+            "id": 3,
+            "name": "Butter",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Butter.jpg",
+            "price": 14,
+            "thongtin": "Butter is an essential ingredient in cooking and baking, adding a rich, creamy flavor to dishes and baked goods. It can be used for sautéing, baking, or as a spread.",
+            "noimua": "Widely available at supermarkets, grocery stores, and baking supply shops."
+        },
+        {
+            "id": 4,
+            "name": "Spices",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Spices.jpg",
+            "price": 14,
+            "thongtin": "Spices like pepper, salt, chili, dill, and basil are crucial for adding depth and flavor to meals. They are often used in everyday cooking.",
+            "noimua": "Available at large supermarkets or specialty spice shops, as well as traditional markets."
+        },
+        {
+            "id": 5,
+            "name": "Eggs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Eggs.jpg",
+            "price": 14,
+            "thongtin": "Eggs are a versatile source of protein that can be boiled, fried, or used in baking. They are an essential ingredient in many recipes.",
+            "noimua": "Sold at supermarkets, local markets, or farms."
+        },
+        {
+            "id": 6,
+            "name": "Water",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Water.jpg",
+            "price": 14,
+            "thongtin": "Water is essential for health, and it's important to drink enough daily. Options include tap water or bottled water.",
+            "noimua": "Available at supermarkets, convenience stores, or cafes."
+        },
+        {
+            "id": 7,
+            "name": "Jelly",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Jelly.jpg",
+            "price": 14,
+            "thongtin": "Jelly is made from fruit and is commonly used as a topping for desserts or spreads for bread. It adds a sweet and fruity flavor to various dishes.",
+            "noimua": "Found in supermarkets, grocery stores, or specialty food shops."
+        },
+        {
+            "id": 8,
+            "name": "Strawberry",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Strawberry.jpg",
+            "price": 14,
+            "thongtin": " Strawberries are sweet, red berries rich in vitamins, antioxidants, and fiber. They are often eaten fresh, in desserts, or as a smoothie ingredient.",
+            "noimua": "Available at supermarkets, farmers' markets, or fruit stands."
+        },
+        {
+            "id": 9,
+            "name": "Dragon fruit",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Dragon fruit.jpg",
+            "price": 14,
+            "thongtin": "Dragon fruit is a tropical fruit with a sweet, mildly tangy flavor and a unique appearance. It’s often used in fruit salads or smoothies.",
+            "noimua": "Found in supermarkets and local markets that sell exotic fruits."
+        },
+        {
+            "id": 10,
+            "name": "Chocolate ball",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Chocolate ball.jpg",
+            "price": 14,
+            "thongtin": "Chocolate balls are a popular snack made from chocolate, often filled with various fillings like nuts or cream. They are a favorite treat for many.",
+            "noimua": "Available at supermarkets, candy shops, or specialty dessert stores."
+        },
+        {
+            "id": 11,
+            "name": "Sandwich bread",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Sandwich bread.jpg",
+            "price": 14,
+            "thongtin": "Sandwich bread is soft bread used for making sandwiches. It comes in various types, such as whole grain, white, or sourdough.",
+            "noimua": "Found in supermarkets, bakeries, or local grocery stores."
+        },
+        {
+            "id": 12,
+            "name": "Olives",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Olives.jpg",
+            "price": 14,
+            "thongtin": "Olives are a staple in Mediterranean cuisine, known for their unique flavor. They can be eaten raw, used in salads, or as toppings for pizzas.",
+            "noimua": "Available in supermarkets or specialty Mediterranean grocery stores."
+        },
+        {
+            "id": 13,
+            "name": "Carrots",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Carrots.jpg",
+            "price": 14,
+            "thongtin": "Carrots are crunchy vegetables rich in vitamins, particularly vitamin A. They can be eaten raw, cooked, or used in salads and soups.",
+            "noimua": "Found at supermarkets, farmers' markets, and local grocery stores."
+        },
+        {
+            "id": 14,
+            "name": "Oranges",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Oranges.jpg",
+            "price": 14,
+            "thongtin": "Oranges are citrus fruits high in vitamin C and antioxidants. They can be eaten fresh or juiced for a refreshing drink.",
+            "noimua": " Available at supermarkets, fruit markets, and local grocery stores."
+        },
+        {
+            "id": 15,
+            "name": "Pumpkins",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Pumpkins.jpg",
+            "price": 14,
+            "thongtin": "Pumpkins are versatile vegetables often used in soups, pies, and other dishes. They are rich in nutrients and have a distinct flavor.",
+            "noimua": "Found in supermarkets, farmers' markets, and seasonal pumpkin patches."
+        },
+        {
+            "id": 16,
+            "name": "Minced pork",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Minced pork.jpg",
+            "price": 14,
+            "thongtin": "Minced pork is commonly used in many dishes, such as stir-fries, meatballs, or dumplings. It’s a rich source of protein and can be seasoned in various ways.",
+            "noimua": " Available at supermarkets, butcher shops, and local markets."
+        },
+        {
+            "id": 17,
+            "name": "Mushrooms",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Mushrooms.jpg",
+            "price": 14,
+            "thongtin": "Mushrooms are a nutritious food that adds umami flavor to dishes. They can be sautéed, grilled, or used in soups and salads.",
+            "noimua": "Found in supermarkets, specialty mushroom stores, or farmers' markets."
+        },
+        {
+            "id": 18,
+            "name": "Green onions",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Green onions.jpg",
+            "price": 14,
+            "thongtin": "Green onions, also known as scallions, are used as a garnish or flavor enhancer in various dishes. They have a mild onion flavor.",
+            "noimua": "Available at supermarkets, farmers' markets, and local grocery stores."
+        },
+        {
+            "id": 19,
+            "name": "Vegetable oil",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Vegetable oil.jpg",
+            "price": 14,
+            "thongtin": "Vegetable oil is a common cooking oil used for frying and sautéing. It has a neutral flavor and high smoke point.",
+            "noimua": "Found in supermarkets and grocery stores."
+        },
+        {
+            "id": 20,
+            "name": "Olive oil",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Olive oil.jpg",
+            "price": 14,
+            "thongtin": "Olive oil is a staple in Mediterranean cuisine, known for its health benefits. It’s often used for salad dressings, cooking, and drizzling over dishes.",
+            "noimua": "Available at supermarkets, specialty grocery stores, or organic food stores."
+        },
+        {
+            "id": 21,
+            "name": "Brown rice",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Brown rice.jpg",
+            "price": 14,
+            "thongtin": "Brown rice is a whole grain that is rich in fiber and nutrients. It has a nutty flavor and is often used as a healthier alternative to white rice.",
+            "noimua": "Found in supermarkets, health food stores, or bulk food stores."
+        },
+        {
+            "id": 22,
+            "name": "Mozzarella cheese",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Mozzarella cheese.jpg",
+            "price": 14,
+            "thongtin": "Mozzarella cheese is a soft cheese commonly used in pizzas, salads, and sandwiches. It melts well and has a mild flavor.",
+            "noimua": "Available at supermarkets, cheese shops, or Italian grocery stores."
+        },
+        {
+            "id": 23,
+            "name": "Garlic",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Garlic.jpg",
+            "price": 14,
+            "thongtin": "Garlic is a flavorful ingredient used in various cuisines. It can be used fresh, minced, or roasted to enhance the flavor of dishes.",
+            "noimua": "Found in supermarkets, farmers' markets, and local grocery stores."
+        },
+        {
+            "id": 24,
+            "name": "Basil leaves",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Basil leaves.jpg",
+            "price": 14,
+            "thongtin": "Basil leaves are aromatic herbs used in Italian and Mediterranean cooking. They add freshness and flavor to sauces, salads, and pizzas.",
+            "noimua": "Available at supermarkets, farmers' markets, or herb gardens."
+        },
+        {
+            "id": 25,
+            "name": "Avocado",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Avocado.jpg",
+            "price": 14,
+            "thongtin": "Avocados are creamy, nutrient-dense fruits rich in healthy fats. They are often used in salads, spreads, and smoothies.",
+            "noimua": "Found in supermarkets, farmers' markets, and local grocery stores."
+        },
+        {
+            "id": 26,
+            "name": "Peanut butter",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Peanut butter.jpg",
+            "price": 14,
+            "thongtin": "Peanut butter is a popular spread made from ground peanuts. It can be used in sandwiches, smoothies, or as a dip for fruits and vegetables.",
+            "noimua": "Available at supermarkets, health food stores, and grocery stores."
+        },
+        {
+            "id": 27,
+            "name": "Honey",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Honey.jpg",
+            "price": 14,
+            "thongtin": "Honey is a natural sweetener made by bees. It’s often used in tea, desserts, and as a topping for various dishes.",
+            "noimua": "Found in supermarkets, health food stores, and local markets."
+        },
+        {
+            "id": 28,
+            "name": "Vanilla extract",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Vanilla extract.jpg",
+            "price": 14,
+            "thongtin": "Vanilla extract is a flavoring made from vanilla beans. It’s commonly used in baking and desserts to enhance sweetness and flavor.",
+            "noimua": "Available at supermarkets, baking supply stores, and specialty food shops."
+        },
+        {
+            "id": 29,
+            "name": "Pumpkin seeds",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Pumpkin seeds.jpg",
+            "price": 14,
+            "thongtin": "Pumpkin seeds are nutritious snacks often roasted and salted. They can be eaten on their own or added to salads and granola.",
+            "noimua": "Found in supermarkets, health food stores, and bulk food stores."
+        },
+        {
+            "id": 30,
+            "name": "Shrimp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Shrimp.jpg",
+            "price": 14,
+            "thongtin": "Shrimp are popular seafood known for their delicate flavor and versatility. They can be grilled, sautéed, or used in soups and pasta dishes.",
+            "noimua": "Available at supermarkets, fish markets, and local seafood shops."
+        },
+        {
+            "id": 31,
+            "name": "Rolled oats",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Rolled oats.jpg",
+            "price": 14,
+            "thongtin": "A whole grain that is often used for oatmeal, granola, or baking. They are high in fiber and can help lower cholesterol.",
+            "noimua": "Available at supermarkets, health food stores, and online."
+        },
+        {
+            "id": 32,
+            "name": "Maple syrup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Maple syrup.jpg",
+            "price": 14,
+            "thongtin": "A sweet syrup made from the sap of sugar maple trees. It is commonly used as a topping for pancakes, waffles, and desserts.",
+            "noimua": "Found in supermarkets, specialty stores, and online."
+        },
+        {
+            "id": 33,
+            "name": "Boiled eggs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Boiled eggs.jpg",
+            "price": 14,
+            "thongtin": "Eggs that are cooked in boiling water until the whites are firm and the yolks are fully cooked. They are a great source of protein and can be eaten as a snack or added to salads.",
+            "noimua": "Available at supermarkets, delis, and local markets."
+        },
+        {
+            "id": 34,
+            "name": "Crab meat",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Crab meat.jpg",
+            "price": 14,
+            "thongtin": "The meat from crabs, often used in seafood dishes such as crab cakes and salads. It is rich in protein and omega-3 fatty acids.",
+            "noimua": "Found in seafood markets, supermarkets, and specialty grocery stores."
+        },
+        {
+            "id": 35,
+            "name": "Black bread",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Black bread.jpg",
+            "price": 14,
+            "thongtin": "A type of bread made from rye or other dark flours, known for its dense texture and rich flavor. It is often enjoyed with hearty meals.",
+            "noimua": "Available at bakeries, supermarkets, and specialty stores."
+        },
+        {
+            "id": 36,
+            "name": "Tofu",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Tofu.jpg",
+            "price": 14,
+            "thongtin": "A soy-based protein that is often used in vegetarian and vegan dishes. It can be stir-fried, grilled, or added to soups and salads.",
+            "noimua": "Found in supermarkets, health food stores, and Asian grocery stores."
+        },
+        {
+            "id": 37,
+            "name": "Wholemeal sandwich bread",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Wholemeal sandwich bread.jpg",
+            "price": 14,
+            "thongtin": "Bread made from whole grains, providing more fiber and nutrients compared to white bread. It's commonly used for sandwiches.",
+            "noimua": "Available at bakeries, supermarkets, and health food stores."
+        },
+        {
+            "id": 38,
+            "name": "Leaf lettuce",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Leaf lettuce.jpg",
+            "price": 14,
+            "thongtin": "A type of leafy green vegetable often used in salads and sandwiches. It is crisp and refreshing, providing vitamins A and K.",
+            "noimua": "Found in supermarkets, farmers' markets, and local grocery stores."
+        },
+        {
+            "id": 39,
+            "name": "Chicken egg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Chicken egg.jpg",
+            "price": 14,
+            "thongtin": "The most common type of egg consumed, rich in protein and versatile for cooking and baking. They can be boiled, scrambled, or fried.",
+            "noimua": "Available at supermarkets, local farms, and grocery stores."
+        },
+        {
+            "id": 40,
+            "name": "Mayonnaise",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Mayonnaise.jpg",
+            "price": 14,
+            "thongtin": "A creamy condiment made from eggs, oil, and vinegar, often used in sandwiches, salads, and dressings. It adds richness and flavor to dishes.",
+            "noimua": "Found in supermarkets, grocery stores, and online."
+        },
+        {
+            "id": 41,
+            "name": "Tomato sauce",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Tomato sauce.jpg",
+            "price": 14,
+            "thongtin": " A sauce made from tomatoes, used as a base for pasta dishes, pizzas, and casseroles. It can be seasoned with various herbs and spices.",
+            "noimua": "Available at supermarkets and grocery stores."
+        },
+        {
+            "id": 42,
+            "name": "Chili sauce",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Chili sauce.jpg",
+            "price": 14,
+            "thongtin": "A spicy sauce made from chili peppers, often used to add heat to dishes. It can be used in marinades, dips, or as a condiment.",
+            "noimua": "Found in supermarkets and specialty stores."
+        },
+        {
+            "id": 43,
+            "name": "Cooking oil",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Cooking oil.jpg",
+            "price": 14,
+            "thongtin": "An essential ingredient for frying, sautéing, and baking. Common types include vegetable, olive, and canola oil.",
+            "noimua": "Available at supermarkets and grocery stores."
+        },
+        {
+            "id": 44,
+            "name": "Dried basil leaves",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Dried basil leaves.jpg",
+            "price": 14,
+            "thongtin": "A dried herb often used in Italian cooking to add flavor to sauces, pizzas, and salads. It has a sweet and aromatic flavor.",
+            "noimua": "Found in supermarkets and spice shops."
+        },
+        {
+            "id": 45,
+            "name": "Unsweetened fresh milk",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Unsweetened fresh milk.jpg",
+            "price": 14,
+            "thongtin": "Fresh milk without added sugars, used in cooking, baking, or as a beverage. It's a good source of calcium and vitamin D.",
+            "noimua": "Available at supermarkets, dairy farms, and grocery stores"
+        },
+        {
+            "id": 46,
+            "name": "Sugar",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Sugar.jpg",
+            "price": 14,
+            "thongtin": "A sweetener used in cooking and baking, derived from sugar cane or sugar beets. It adds sweetness to desserts and beverages.",
+            "noimua": "Found in supermarkets and grocery stores."
+        },
+        {
+            "id": 47,
+            "name": "Lemon",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Lemon.jpg",
+            "price": 14,
+            "thongtin": " A citrus fruit known for its tart flavor, often used in cooking, baking, and beverages. It adds brightness to both sweet and savory dishes.",
+            "noimua": "Available at supermarkets, farmers' markets, and grocery stores."
+        },
+        {
+            "id": 48,
+            "name": "Kiwis",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Kiwis.jpg",
+            "price": 14,
+            "thongtin": "A small, brown fruit with bright green flesh and a sweet-tart flavor. They are high in vitamin C and can be eaten fresh or used in smoothies.",
+            "noimua": "Found in supermarkets and specialty fruit stores."
+        },
+        {
+            "id": 49,
+            "name": "Grapes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Grapes.jpg",
+            "price": 14,
+            "thongtin": "Small, sweet fruits that can be eaten fresh or used to make wine, raisins, or jelly. They are a good source of vitamins and antioxidants.",
+            "noimua": "Available at supermarkets, farmers' markets, and grocery stores."
+        },
+        {
+            "id": 50,
+            "name": "Pimento-stuffed olives",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Pimento-stuffed olives.jpg",
+            "price": 14,
+            "thongtin": "Olives that are filled with pimento peppers, often used in cocktails or as snacks. They add a savory flavor to dishes.",
+            "noimua": ""
+        },
+        {
+            "id": 51,
+            "name": "Sweet potatoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Sweet potatoes.jpg",
+            "price": 14,
+            "thongtin": "Sweet potatoes are nutritious tubers with a sweet flavor. They can be baked, mashed, or used in various dishes. They are high in fiber and vitamins A and C.",
+            "noimua": "Found in supermarkets and specialty stores."
+        },
+        {
+            "id": 52,
+            "name": "Pumpkin",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/ingredients/Pumpkin.jpg",
+            "price": 14,
+            "thongtin": "Pumpkin is a versatile squash used in both sweet and savory dishes. It can be roasted, pureed for soups, or used in pies. It's rich in vitamins and antioxidants.",
+            "noimua": "Found in supermarkets, farmers' markets, and local grocery stores, especially during the fall season."
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Rolled turkey",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/rolled turkey.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "350g chicken breast, 200g asparagus, 3 minced garlic cloves, dried basil leaves, butter, spices: seasoning powder, pepper, ground pepper",
+            "Recipe": "Step 1: Prepare ingredients, Step 2: Marinate chicken, Step 3: Roll asparagus, Step 4: Pan-fry chicken patties",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 2 - 3 people",
+            "number_of_calories": "218 calo",
+            "essentials": [
+                {
+                    "item": "Chicken breast",
+                    "store": "Click Here",
+                    "link": "/ingredients/chicken-breast"
+                },
+                {
+                    "item": "Asparagus",
+                    "store": "Click Here",
+                    "link": "/ingredients/asparagus"
+                },
+                {
+                    "item": "Butter",
+                    "store": "Click Here",
+                    "link": "/ingredients/butter"
+                },
+                {
+                    "item": "Spices",
+                    "store": "Click Here",
+                    "link": "/ingredients/spices"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Boiled eggs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/boiled eggs.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings Yield",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Eggs"
+                },
+                {
+                    "item": "Water",
+                    "store": "Local Market",
+                    "link": "/ingredients/Water"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Animal shaped rhinestones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/Animal shaped rhinestones.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "Jelly 2 scoops, Strawberry 2, Kiwis 1, Grape 2, Dragon fruit 1, Chocolate ball 10 gr, Pandan leaves 50 gr, White sugar 100 gr",
+            "Recipe": "Wash strawberries, kiwi, dragon fruit, and grapes, soak in diluted salt water for about 15 minutes, then take them out into a basket and drain. Cut a thin round slice of strawberry, then cut a V-shaped corner to create a fish mouth...",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 4 people",
+            "number_of_calories": "62 calo",
+            "essentials": [
+                {
+                    "item": "Jelly",
+                    "store": "Click Here",
+                    "link": "/ingredients/Jelly"
+                },
+                {
+                    "item": "Strawberry",
+                    "store": "Click Here",
+                    "link": "/ingredients/Strawberry"
+                },
+                {
+                    "item": "Dragon fruit",
+                    "store": "Click Here",
+                    "link": "/ingredients/Dragon-fruit"
+                },
+                {
+                    "item": "Chocolate ball",
+                    "store": "Click Here",
+                    "link": "/ingredients/Chocolate-ball"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sandwiches",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/sandwiches.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "Wholemeal sandwich bread 2 slices, 3 leaf lettuce ,1 chicken egg (medium size) Mayonnaise 1 tbsp Tomato sauce 1/2 tablespoon Chili sauce 1/2 tablespoon Cooking oil 10ml, 1 little regular seasoning (salt/ground pepper)",
+            "Recipe": "Raw material preparation, Toast, Fried eggs,Mix sauce, Make fried egg sandwich, Finished product",
+            "preparation_time": "25 minutes",
+            "estimated_quantity": "For 1 people",
+            "number_of_calories": "50 calo",
+            "essentials": [
+                {
+                    "item": "Sandwich bread",
+                    "store": "Local Market",
+                    "link": "/ingredients/Sandwich-bread"
+                },
+                {
+                    "item": "Eggs",
+                    "store": "Local Market",
+                    "link": "/ingredients/Eggs"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Olives",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/olives.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "1 quart large pimento-stuffed green olives, drained and roughly chopped, 1/2 cups vegetable oil, 1/2 cups extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 calo",
+            "essentials": [
+                {
+                    "item": "Olives",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Local Market",
+                    "link": "/ingredients/Carrots"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Orange",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/orange smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings Yield",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Oranges",
+                    "store": "Local Market",
+                    "link": "/ingredients/Oranges"
+                },
+                {
+                    "item": "Eggs",
+                    "store": "Local Market",
+                    "link": "/ingredients/Eggs"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Steamed pumpkin",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/steamed pumpkin.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "2 small pumpkins, Minced pork 200 gr, 4 mushrooms, 10 fresh shiitake mushrooms, 2 green onions, Fish sauce 2 teaspoons, Regular seasoning",
+            "Recipe": "Cut off the top of the pumpkin to make a lid...",
+            "preparation_time": "50 minutes",
+            "estimated_quantity": "For 3 people",
+            "number_of_calories": "250 - 300 calo",
+            "essentials": [
+                {
+                    "item": "Pumpkins",
+                    "store": "Click Here",
+                    "link": "/ingredients/Pumpkins"
+                },
+                {
+                    "item": "Minced pork",
+                    "store": "Local Market",
+                    "link": "/ingredients/Minced-pork"
+                },
+                {
+                    "item": "Mushrooms",
+                    "store": "Click Here",
+                    "link": "/ingredients/Mushrooms"
+                },
+                {
+                    "item": "Green onions",
+                    "store": "Click Here",
+                    "link": "/ingredients/Green-onions"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Flan",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/flan.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "10 eggs, 170ml water, 500ml unsweetened fresh milk, 1 lemon, Sugar",
+            "Recipe": "Put 120g sugar and 100ml water into the pot, put the pot on the stove and turn down the heat. Be careful not to stir sugar while cooking. When the sugar turns slightly yellow, squeeze in a little lemon. When the sugar has completely turned cockroach color, turn off the stove and slowly pour 70ml of water into the pot. Pour a thin layer of caramel into the mold and put the mold in the refrigerator for about 15 minutes.",
+            "preparation_time": "1 hour",
+            "estimated_quantity": "For 1 person",
+            "number_of_calories": "130 calo",
+            "essentials": [
+                {
+                    "item": "Olives",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Vegetable oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Vegetable-oil"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olive-oil"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Click Here",
+                    "link": "/ingredients/Carrots"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Brown rice cake",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/brown rice cake.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "2 large eggs, 2 cups cooked brown rice, 1/2 cup grated mozzarella cheese, 1/4 teaspoon kosher salt, olive oil",
+            "Recipe": "In a medium mixing bowl, whisk the eggs. Add the rice, cheese, and salt and stir to combine well.",
+            "preparation_time": "5 - 10 minutes",
+            "estimated_quantity": "For 3 people",
+            "number_of_calories": "35 calo",
+            "essentials": [
+                {
+                    "item": "Brown rice",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Mozzarella cheese",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Beef stew",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/Beef stew.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "350g chicken breast, 200g asparagus, 3 minced garlic cloves, dried basil leaves, butter, spices: seasoning powder, pepper, ground pepper",
+            "Recipe": "Step 1: Prepare ingredients, Step 2: Marinate chicken, Step 3: Roll asparagus, Step 4: Pan-fry chicken patties",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 2 - 3 people",
+            "number_of_calories": "218 calo",
+            "essentials": [
+                {
+                    "item": "Chicken breast",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Asparagus",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Garlic",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Basil leaves",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Cheese pudding",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/cheese pudding.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Cheese",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Egg avocado salad",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/Egg avocado salad.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "drained and roughly chopped, 1/2 cups vegetable oil, 1/2 cups extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 calo",
+            "essentials": [
+                {
+                    "item": "Avocado",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Granola bars",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/granola bars.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "1/2 cup peanut butter, 2/3 cup honey, 1 tsp vanilla extract, 1/2 tsp sea salt, 1/3 cup mini chocolate chips, 3 tbsp pumpkin seeds",
+            "Recipe": "1. Line an 8x8 baking tray with parchment paper. 2. In a large bowl, combine peanut butter, honey, vanilla, and salt until smooth.",
+            "preparation_time": "5 minutes",
+            "estimated_quantity": "For 1 person",
+            "number_of_calories": "471 calo",
+            "essentials": [
+                {
+                    "item": "Peanut butter",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Honey",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Vanilla extract",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Pumpkin seeds",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Shrimp soup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/shrimp soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "1 quart large pimento-stuffed green olives, drained and roughly chopped, 1/2 cups vegetable oil, 1/2 cups extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 calo",
+            "essentials": [
+                {
+                    "item": "Shrimp",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Olives",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Granola recipe",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/granola cereal.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "2 cups whole rolled oats, ½ cup chopped walnuts, or almonds, or a mix of both, ½ cup coconut flakes, optional, 2 teaspoons cinnamon, ½ teaspoon sea salt, 2 tablespoons melted coconut oil, ¼ cup maple syrup, 2 tablespoons creamy almond butter",
+            "Recipe": "Gather the ingredients, Add all ingredients to the tray. Mix well until completely coated and spread into an even layer. Squeeze the granola together after mixing to form a ball. Bake until golden",
+            "preparation_time": "1 hours 5 minutes",
+            "estimated_quantity": "For 6 people",
+            "number_of_calories": "573 calo",
+            "essentials": [
+                {
+                    "item": "Rolled oats",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Maple syrup",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sweet potato soup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Snacks for kids/Sweet potato soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 2,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings Yield",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Sweet potatoes",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Butter",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Apple",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/apple.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "2 small pumpkins Minced pork 200 gr 4 mushrooms 10 fresh shiitake mushrooms (fresh shiitake mushrooms) 2 green onions Fish sauce 2 teaspoons Regular seasoning 1 little (sugar/seasoning powder/pepper)",
+            "Recipe": "Cut off the top of the pumpkin to make a lid, remove the intestines from the body of the pumpkin to leave space to stuff the pumpkin inside. Place the pot on the stove, add 1.5 liters of water and bring to a boil. Add the stuffed squash and steam for about 30 - 40 minutes until the squash is soft, then turn off the heat and open the lid to let the squash cool",
+            "preparation_time": "50 minutes",
+            "estimated_quantity": "For 3 people",
+            "number_of_calories": "250 - 300 calo",
+            "essentials": [
+                {
+                    "item": "Apple",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Boiled eggs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/boiled eggs.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "Wholemeal sandwich bread 2 slices, 3 leaf lettuce ,1 chicken egg (medium size) Mayonnaise 1 tbsp Tomato sauce 1/2 tablespoon Chili sauce 1/2 tablespoon Cooking oil 10ml, 1 little regular seasoning (salt/ground pepper)",
+            "Recipe": "Raw material preparation, Toast, Fried eggs,Mix sauce, Make fried egg sandwich, Finished product",
+            "preparation_time": "25 minutes",
+            "estimated_quantity": "For 1 people",
+            "number_of_calories": "50 calo",
+            "essentials": [
+                {
+                    "item": "Boiled eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Bread",
+                    "store": "Local Market",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Chicken soup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/chicken soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "2 cups whole rolled oats, ½ cup chopped walnuts, or almonds, or a mix of both, ½ cup coconut flakes, optional, 2 teaspoons cinnamon, ½ teaspoon sea salt, 2 tablespoons melted coconut oil, ¼ cup maple syrup, 2 tablespoons creamy almond butter",
+            "Recipe": "Gather the ingredients, Add all ingredients to the tray. Mix well until completely coated and spread into an even layer. Squeeze the granola together after mixing to form a ball. Bake until golden",
+            "preparation_time": "1 hour 5 minutes",
+            "estimated_quantity": "For 6 people",
+            "number_of_calories": "573 calo",
+            "essentials": [
+                {
+                    "item": "Chicken breast",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Vegetable oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Crab soup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/crab soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings Yield",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Crab meat",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Egg avocado salad",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/Egg avocado salad.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "drained and roughly chopped, 1/2 cups vegetable oil, 1/2 cups extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 calo",
+            "essentials": [
+                {
+                    "item": "Avocado",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Minced meat porridge",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/minced meat porridge.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "2 cups whole rolled oats, ½ cup chopped walnuts, or almonds, or a mix of both, ½ cup coconut flakes, optional, 2 teaspoons cinnamon, ½ teaspoon sea salt, 2 tablespoons melted coconut oil, ¼ cup maple syrup, 2 tablespoons creamy almond butter",
+            "Recipe": "Gather the ingredients, Add all ingredients to the tray. Mix well until completely coated and spread into an even layer. Squeeze the granola together after mixing to form a ball. Bake until golden",
+            "preparation_time": "1 hour 5 minutes",
+            "estimated_quantity": "For 6 people",
+            "number_of_calories": "573 calo",
+            "essentials": [
+                {
+                    "item": "Minced meat",
+                    "store": "Local Market",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Black bread with egg butter",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/Black bread with egg butter.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "2 1/4 teaspoons active dry yeast, 320 - 400 ml warm water, 1 teaspoon natural cane sugar, 2 tablespoons cocoa powder, 2 tablespoons finely ground espresso beans, 1/4 + cup / 70 ml molasses, 3 teaspoons caraway seeds, plus more for topping, 3 tablespoons unsalted butter, cut into pieces, 2 teaspoons fine grain sea salt, ~2 cups / 150 g coarsely grated carrot, 1 1/3 cup / 150 g rye flour, ~3 1/4 cup / 15 oz / 425 g bread flour, olive oil for kneading and oiling baking sheet, 2 tablespoons buttermilk, water, or milk",
+            "Recipe": "In a small bowl whisk the yeast with 1 1/3 cups / 320 ml of the warm water and sugar, and set aside until foamy, In a small saucepan over medium-low heat, combine the cocoa, coffee, molasses, caraway, butter, and salt. Stir constantly until just melted",
+            "preparation_time": "5 hours",
+            "estimated_quantity": "For 4 people",
+            "number_of_calories": "195 calo",
+            "essentials": [
+                {
+                    "item": "Black bread",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Steamed tofu with eggs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Easy on stomach snacks/Steamed tofu with eggs.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 3,
+            "Ingredients_along_with_proportions": "Drained and roughly chopped tofu, 1/2 cup vegetable oil, 1/2 cup extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 cal",
+            "essentials": [
+                {
+                    "item": "Tofu",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Vegetable oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Apple cinnamon",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/Apple cinnamon smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "Wholemeal sandwich bread 2 slices, 3 leaf lettuce, 1 chicken egg (medium size), Mayonnaise 1 tbsp, Tomato sauce 1/2 tablespoon, Chili sauce 1/2 tablespoon, Cooking oil 10ml, 1 little regular seasoning (salt/ground pepper)",
+            "Recipe": "Raw material preparation, Toast, Fried eggs, Mix sauce, Make fried egg sandwich, Finished product",
+            "preparation_time": "25 minutes",
+            "estimated_quantity": "For 1 person",
+            "number_of_calories": "50 cal",
+            "essentials": [
+                {
+                    "item": "Wholemeal sandwich bread",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Leaf lettuce",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Chicken egg",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Mayonnaise",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Tomato sauce",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Chili sauce",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Cooking oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Avocado and spinach",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/Avocado and spinach smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "350g chicken breast, 200g asparagus, 3 minced garlic cloves, dried basil leaves, butter, spices: seasoning powder, pepper, ground pepper",
+            "Recipe": "Step 1: Prepare ingredients, Step 2: Marinate chicken, Step 3: Roll asparagus, Step 4: Pan-fry chicken patties",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 2 - 3 people",
+            "number_of_calories": "218 cal",
+            "essentials": [
+                {
+                    "item": "Chicken breast",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Asparagus",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Garlic",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Dried basil leaves",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Butter",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Avocado",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/avocado smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "10 eggs, 170ml water, 500ml unsweetened fresh milk, 1 lemon, sugar",
+            "Recipe": "Put 120g sugar and 100ml water into the pot, put the pot on the stove and turn down the heat. Be careful not to stir sugar while cooking. When the sugar turns slightly yellow, squeeze in a little lemon. When the sugar has completely turned cockroach color, turn off the stove and slowly pour 70ml of water into the pot. Pour a thin layer of caramel into the mold and put the mold in the refrigerator for about 15 minutes.",
+            "preparation_time": "1 hour",
+            "estimated_quantity": "For 1 person",
+            "number_of_calories": "130 cal",
+            "essentials": [
+                {
+                    "item": "Eggs",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Unsweetened fresh milk",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Lemon",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Sugar",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Banana",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/banana smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "1 quart large pimento-stuffed green olives, drained and roughly chopped, 1/2 cups vegetable oil, 1/2 cups extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 cal",
+            "essentials": [
+                {
+                    "item": "Pimento-stuffed olives",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Vegetable oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Mango",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/mango smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "Jelly 2 scoops, Strawberries 2, Kiwis 1, Grape 2, Dragon fruit 1, Chocolate ball 10g, Pandan leaves 50g, White sugar 100g",
+            "Recipe": "Wash strawberries, kiwi, dragon fruit, and grapes, soak in diluted salt water for about 15 minutes, then take them out into a basket and drain. Cut a thin round slice of strawberry, then cut a V-shaped corner to create a fish mouth, at an angle. Just cut a V shape to make the fish's tail, and use a piece of chocolate to make the fish's eye.",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 4 people",
+            "number_of_calories": "62 cal",
+            "essentials": [
+                {
+                    "item": "Jelly",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Strawberries",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Kiwis",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Grapes",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Dragon fruit",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Chocolate balls",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Pandan leaves",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "White sugar",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Sallad",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Healthy Snacks/sallad.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 1,
+            "Ingredients_along_with_proportions": "Drained and roughly chopped vegetables, 1/2 cup vegetable oil, 1/2 cup extra-virgin olive oil, 2 medium carrots",
+            "Recipe": "Mix all ingredients in a large bowl",
+            "preparation_time": "24 hours",
+            "estimated_quantity": "For 3 - 5 people",
+            "number_of_calories": "290 cal",
+            "essentials": [
+                {
+                    "item": "Vegetables",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Vegetable oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Olive oil",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                },
+                {
+                    "item": "Carrots",
+                    "store": "Click Here",
+                    "link": "/ingredients/Olives"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Pumpkin",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/pumpkin smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "6 to 12 eggs",
+            "Recipe": "1/4 water, Arrange eggs evenly",
+            "preparation_time": "Cook Time 20 mins",
+            "estimated_quantity": "Servings 6 to 12 servings Yield",
+            "number_of_calories": "54 calo",
+            "essentials": [
+                {
+                    "item": "Pumpkin",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Eggs",
+                    "store": "Local Market",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Strawberry",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem portul indunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "image": "../assets/images/Smoothies/strawberry smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "350g chicken breast, 200g asparagus, 3 minced garlic cloves, dried basil leaves, butter, spices: seasoning powder, pepper, ground pepper",
+            "Recipe": "Step 1: Prepare ingredients, Step 2: Marinate chicken, Step 3: Roll asparagus, Step 4: Pan-fry chicken patties",
+            "preparation_time": "30 minutes",
+            "estimated_quantity": "For 2 - 3 people",
+            "number_of_calories": "218 calo",
+            "essentials": [
+                {
+                    "item": "Strawberries",
+                    "store": "Local Market",
+                    "link": "#"
+                },
+                {
+                    "item": "Chicken breast",
+                    "store": "Local Market",
+                    "link": "#"
+                }
+            ]
+        }
+    ],
+    "best_seller": [
+        {
+            "id": 1,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "../assets/images/Healthy Snacks/sallad.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        },
+        {
+            "id": 2,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "../assets/images/Smoothies/banana smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        },
+        {
+            "id": 3,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "../assets/images/Smoothies/Apple cinnamon smoothie.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        },
+        {
+            "id": 4,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "../assets/images/Easy on stomach snacks/chicken soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        },
+        {
+            "id": 5,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "../assets/images/Snacks for kids/Sweet potato soup.jpg",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        },
+        {
+            "id": 6,
+            "name": "Smoothies",
+            "description": "Welcome to our home page",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrh9lEniCkzZxUbx5fRMmh3m2mvC8VoiIQkw&s",
+            "price": 14,
+            "sale_price": 16,
+            "categoryId": 4,
+            "Ingredients_along_with_proportions": "kfdkfkd",
+            "Recipe": "kfdkfkd",
+            "preparation_time": "kfdkfkd",
+            "estimated_quantity": "kfdkfkd",
+            "number_of_calories": "kfdkfkd"
+        }
+    ],
+    "Discounted_products": [
+        {
+            "id": 1,
+            "image": "https://file.hstatic.net/1000301274/file/12_grande.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://file.hstatic.net/1000301274/file/1_6bb43d22bf9f4840a74766e3bb4cb6ad_grande.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://fado.vn/blog/wp-content/uploads/2022/04/wwd0IEqSZvjpYSpKxRb40PVIVX66_DPGYIXfJ8wLpZ6H7anhvNVvLNukxi_Q_7-5GCqT62BQKY287xj17WAvqmw_ogUCzspu6NlV.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://media.cooky.vn/recipe/g4/34424/s320x320/cooky-recipe-cover-r34424.jpg"
+        },
+        {
+            "id": 5,
+            "image": "../assets/images/Snacks for kids/cheese pudding.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://kangaroovietnam.vn/Uploads/mon-man-cho-be-an-com-2.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjmPAduSt0z3r2HJtGKC0bJLkU5U3s_igUA&s"
+        }
+    ]
+}
