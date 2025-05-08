@@ -17,6 +17,8 @@ import AboutUs from './Product/About us';
 import Image_gallary from './Product/Image Gallery';
 import AboutPage from './Product/About page';
 import DetailIngredients from './Product/Detail_Ingredients';
+import ProductInfomation from './Product/Product_Infomation';
+import RateFeecback from './Product/Rate feedback';
 function App() {
 
   const { categories, products } = data;
@@ -51,6 +53,8 @@ function App() {
         <Route path="/about-us" element={<AboutUs />}></Route>
         <Route path="/about-page" element={<AboutPage />}></Route>
         <Route path="/blog" element={<Blog />}></Route>
+        <Route path="/product-infomation" element={<ProductInfomation />}></Route>
+        <Route path="/rate-feedback" element={<RateFeecback />}></Route>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/register" element={<Register />}></Route>
         <Route path="/contact" element={<Contact />}></Route>

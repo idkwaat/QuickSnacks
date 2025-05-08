@@ -24,7 +24,6 @@ function Image_gallary() {
                     <div className="row">
                         <div className="col-lg-12 text-center">
                             <h2 className="secTitle">Image <span>Gallary</span></h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere quia beatae quae et similique. Cumque quas harum quod magnam<br /> commodi non maiores dolorem recusandae, accusamus adipisci corporis eaque dolor. Voluptate?</p>
 
                         </div>
                     </div>
@@ -32,42 +31,42 @@ function Image_gallary() {
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/ingredients/Black bread.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/ingredients/Olives.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/ingredients/Strawberry.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/ingredients/Dragon fruit.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/ingredients/Unsweetened fresh milk.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                             <div className="blog">
                                 <div className="blog-img">
-                                    <img src="https://bcp.cdnchinhphu.vn/334894974524682240/2022/6/27/z35239078596038158e03dd491b4ae0b9378624554870f-1656337680868517506129.jpg" width="100%" className="w-100 img-fluid" alt="" />
+                                    <img src="./assets/images/Snacks for kids/shrimp soup.jpg" width="100%" className="w-100 img-fluid" alt="" />
                                 </div>
                             </div>
                         </div>

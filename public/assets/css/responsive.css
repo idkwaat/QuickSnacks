@@ -37,32 +37,40 @@
     .bilogicaTab02 li a {
         padding: 0 20px;
     }
-    .bilogicaTab li  {
+
+    .bilogicaTab li {
         margin: 10px;
     }
-    .offerSection01{
+
+    .offerSection01 {
         padding: 0px;
     }
-    .p-title{
+
+    .p-title {
         font-size: 13px;
         font-weight: bold;
         height: 56px;
         padding: 0;
     }
-    .piPrice{
+
+    .piPrice {
         font-size: 12px;
     }
-    .categorySection01{
+
+    .categorySection01 {
         padding: 0;
     }
+
     .withoutBorder.productItem01 {
         margin-bottom: 50px;
         height: 360px;
     }
-    .lookBookItem h4{
+
+    .lookBookItem h4 {
         font-size: 30px;
     }
-    .lookBookItem p{
+
+    .lookBookItem p {
         font-size: 15px;
     }
 
@@ -132,7 +140,7 @@
         bottom: 5px;
     }
 
-    .productItem04 .pThumb img{
+    .productItem04 .pThumb img {
         width: 130px;
         height: 88px;
     }
@@ -187,24 +195,30 @@
 
 /* ============  4. Comon in Tab & Mobile ============== */
 @media (max-width: 991px) {
-    .text-content{
+    .text-content {
         padding-left: 10px;
     }
-    .text-content h4{
+
+    .text-content h4 {
         font-size: 30px;
     }
-    .text-content p{
+
+    .text-content p {
         font-size: 13px;
     }
-    .content-wrapper{
+
+    .content-wrapper {
         padding-top: 10%;
     }
-    .productSection01{
+
+    .productSection01 {
         padding: 0;
     }
-    .categorySection01{
+
+    .categorySection01 {
         padding: 0;
     }
+
     .footer03 {
         padding-top: 180px;
     }
@@ -464,14 +478,14 @@
         display: block;
     }
 
-    .main-menu > ul > li {
+    .main-menu>ul>li {
         display: block;
         padding: 14px 24px;
         text-align: left;
         border-bottom: 1px solid hsla(0, 0%, 0%, 0.25);
     }
 
-    .main-menu > ul > li:first-child {
+    .main-menu>ul>li:first-child {
         border-top: 1px solid hsla(0, 0%, 0%, 0.25);
     }
 
@@ -506,18 +520,19 @@
         transform: none;
     }
 
-    .main-menu .sub-menu > li > a {
+    .main-menu .sub-menu>li>a {
         color: #ffffff;
     }
 
-    .main-menu .sub-menu > li {
+    .main-menu .sub-menu>li {
         display: block;
         padding: 6px 24px;
         text-align: left;
         border-bottom: 1px solid hsla(0, 0%, 0%, 0.25);
     }
 
-    .offcanvas.show:not(.hiding), .offcanvas.showing {
+    .offcanvas.show:not(.hiding),
+    .offcanvas.showing {
         background-color: #444242;
     }
 
@@ -526,14 +541,19 @@
         font-size: 16px;
         padding: 8px 14px;
     }
-    
+
     .form-search button {
         padding: 14px;
     }
-    
-    .form-search button i{
+
+    .form-search button i {
         font-size: 10px;
         color: #ff0000;
+    }
+
+
+    .item img {
+        height: 60vh !important;
     }
 }
 
@@ -544,33 +564,42 @@
         padding-left: 0;
         text-align: center;
     }
-    .contact-form form .item-row{
+
+    .contact-form form .item-row {
         margin-bottom: 20px;
     }
-    .ctaIcon i{
+
+    .ctaIcon i {
         width: 50px;
         height: 50px;
     }
+
     .topbar03 .myaccount,
     .topbar03 .tpmenu {
         display: none;
     }
-    .productSection01 .container{
+
+    .productSection01 .container {
         padding: 10px 0;
     }
+
     .header02 .accessNav {
         padding: 35px 10px 0 5px;
     }
+
     .offerSection02 .secTitle {
         font-size: 10px;
     }
-    .offerSection01{
+
+    .offerSection01 {
         display: block;
-        
+
     }
-    .offerSection02{
+
+    .offerSection02 {
         display: none;
     }
+
     .testmonialSlider02.owl-carousel .owl-stage-outer {
         height: calc(100% + 30px);
         margin: -15px;
@@ -629,7 +658,7 @@
     }
 
     .productItem03 {
-        
+
         padding-left: 20px;
         width: 100%;
     }
@@ -674,10 +703,12 @@
         right: 0;
         bottom: 0;
     }
+
     .productItem04 .pThumb {
         top: 30%
     }
-    .productItem04 .pThumb img{
+
+    .productItem04 .pThumb img {
         width: 110px;
         height: 88px;
     }
@@ -733,7 +764,7 @@
     }
 
     .col-lg-6 {
-       margin: 10px 0;
+        margin: 10px 0;
     }
 
     .accessNav .myaccount {

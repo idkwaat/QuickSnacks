@@ -37,15 +37,14 @@ export default function Shop({ addToCart }) {
     };
     return (
         <>
-
-            <div class="page-banner-section-shop section">
-                <div class="container">
-                    <div class="row">
-                        <div class="page-banner-content col-xs-12">
+            <div className="page-banner-section section">
+                <div className="container">
+                    <div className="row">
+                        <div className="page-banner-content col-xs-12">
                             <h2>Shop</h2>
-                            <ul class="breadcrumb">
+                            <ul className="breadcrumb">
                                 <li><Link className="Link" to="/">Home</Link></li>
-                                <li class="active">shop</li>
+                                <li className="active">Shop</li>
                             </ul>
                         </div>
                     </div>
@@ -54,7 +53,7 @@ export default function Shop({ addToCart }) {
             <div class="page-section section pt-100 pb-60">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-12 order-lg-0 order-0">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                             <div class="single-sidebar mb-8">
                                 <div class="sidebar-search">
                                     <input type="text" onChange={(e) => setSearchTerm(e.target.value)} placeholder="Search here..." />
@@ -75,13 +74,13 @@ export default function Shop({ addToCart }) {
                             </div>
 
                         </div>
-                        <div class="col-xl-9 col-lg-8 col-12 order-lg-1 order-1">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
                             <div className="tab-content">
                                 <div className="tab-pane  show active" id="all" role="tabpanel">
                                     <div className="row">
                                         {filterProduct.length > 0 ? (
                                             filterProduct.map((product) => (
-                                                <div className="col-lg-4 col-md-6" key={product.id}>
+                                                <div className="col-xs-12 col-sm-12 col-md-6" key={product.id}>
                                                     <div className="productItem01 withoutBorder">
                                                         <div className="pThumb">
                                                             <img src={product.image} alt="" />

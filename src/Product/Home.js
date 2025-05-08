@@ -3,9 +3,6 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import data from "../data.json";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 
 function Home({ addToCart }) {
     const { categories, products, Discounted_products } = data;
@@ -51,33 +48,47 @@ function Home({ addToCart }) {
         }
     };
 
-    const settings = {
-        dots: true,
-        infinite: true,
-        speed: 1500,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 4000
-    };
-
     return (
         <>
 
-            <div class="banner-carousel">
-                <Slider {...settings}>
+
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators" style={{textAlign: 'center'}}>
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+
                     <div class="item active">
                         <img src="https://watermark.lovepik.com/photo/20211118/large/lovepik-gourmet-background-picture_400152283.jpg" style={{ width: '100%', height: '100vh' }} alt="Los Angeles" />
+                        <div class="carousel-caption">
+                        </div>
                     </div>
 
                     <div class="item">
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhynWMRKiIcRiMEkJMjfBbTwQWeq8YW3ZHuiHUkCQcgo-g_1X7jLkOY5vZRXvlZ39W61MV5EUNo0OhaHnO-neWmd6L9Gcifo4qX59HA2kK01ScOxzf3Ol3SRDzJvJIoNissv-bX0jY6544/s1600/D%25E1%25BB%258Bch+v%25E1%25BB%25A5+ch%25E1%25BB%25A5p+%25E1%25BA%25A3nh+%25C4%2591%25E1%25BB%2593+%25C4%2583n+%25285%2529.jpg" style={{ width: '100%', height: '100vh' }} alt="Chicago" />
+                        <img src="./assets/images/banner/banner2.jpg" style={{ width: '100%', height: '100vh' }} alt="Chicago" />
+                        <div class="carousel-caption">
+                        </div>
                     </div>
 
                     <div class="item">
-                        <img src="https://presetsandmore.com/wp-content/uploads/2023/08/food-lighroom-preset.jpg" style={{ width: '100%', height: '100vh' }} alt="New York" />
+                        <img src="./assets/images/banner/banner3.jpg" style={{ width: '100%', height: '100vh' }} alt="New York" />
+                        <div class="carousel-caption">
+                        </div>
                     </div>
-                </Slider>
+
+                </div>
+
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
 
 

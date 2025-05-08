@@ -82,7 +82,7 @@ function Header({ name, ...props }) {
                             <ul>
                                 <li className="active"><Link to="/">Home</Link>
                                 </li>
-                                <li><Link to="">Menu</Link>
+                                <li><Link to="#">Shop</Link>
                                     <ul className="sub-menu">
                                         {categories.map((item) => (
                                             <li key={item.id}><Link onClick={(e) => { e.preventDefault(); handleCategoryClick(item.id) }} to=""><span>{item.name}</span></Link></li>
@@ -97,6 +97,8 @@ function Header({ name, ...props }) {
                                 <li><Link to="#">Pages</Link>
                                     <ul className="sub-menu">
                                         <li><Link to="/shop"><span>Shop</span></Link></li>
+                                        <li><Link to="/product-infomation"><span>Product Infomation</span></Link></li>
+                                        <li><Link to="/rate-feedback"><span>Rate Feedback</span></Link></li>
                                         <li><Link to="/cart"><span>cart</span></Link></li>
                                         <li><Link to="/contact"><span>contact</span></Link></li>
                                         <li><Link to="/login"><span>login</span></Link></li>
@@ -166,6 +168,7 @@ function Header({ name, ...props }) {
                                         <li><a href="#">Pages</a>
                                             <ul className="sub-menu">
                                                 <li><a href="/shop"><span>Shop</span></a></li>
+                                                <li><a href="/product-infomation"><span>Product Infomation</span></a></li>
                                                 <li><a href="/cart">Cart</a></li>
                                                 <li><a href="/contact">Contact</a></li>
                                                 <li><a href="/login">login</a></li>

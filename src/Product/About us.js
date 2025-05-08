@@ -40,15 +40,15 @@ export default function AboutUs() {
                 <div className="row">
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4" style={{ margin: '0 auto', textAlign: 'right' }}>
 
-                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Nguyen Khac Duc Anh</h4>
+                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Phung Chi Kien</h4>
                         <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Minh Khai Bac Tu Liem Ha Noi Viet Nam</p>
-                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> dungnguyen@gmail.com</p>
+                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> pck06092005@gmail.com</p>
                         <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="2s"><b>Phone Number:</b> 0123456789</p>
 
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
                         <div className="">
-                            <img className="card-img-top " src="assets/images/about/5A5A3224.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
+                            <img className="card-img-top " src="assets/images/about/7ad6911534598d07d448.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
                         </div>
                     </div>
                 </div>
@@ -57,13 +57,13 @@ export default function AboutUs() {
                 <div className="row">
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
                         <div className="">
-                            <img className="card-img-top " src="assets/images/about/5A5A3224.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
+                            <img className="card-img-top " src="assets/images/about/d57306f3-b3c1-404c-9941-a814d4ae7317.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4" style={{ margin: '0 auto', textAlign: 'left' }}>
-                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Phung Chi Kien</h4>
-                        <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Minh Khai Bac Tu Liem Ha Noi Viet Nam</p>
-                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> dungnguyen@gmail.com</p>
+                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Nguyen Dinh Long</h4>
+                        <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Dong Da Ha Noi Viet Nam</p>
+                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b>  nguyendinhlong51004@gmail.com</p>
                         <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="2s"><b>Phone Number:</b> 0123456789</p>
                     </div>
                 </div>
@@ -72,16 +72,32 @@ export default function AboutUs() {
                 <div className="row">
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4" style={{ margin: '0 auto', textAlign: 'right' }}>
 
-                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Nguyen Van Dung</h4>
-                        <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Minh Khai Bac Tu Liem Ha Noi Viet Nam</p>
-                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> dungnguyen@gmail.com</p>
+                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Nguyen Duc Trung</h4>
+                        <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Hai Ba Trung Ha Noi Viet Nam</p>
+                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> hackertom1234@gmail.com</p>
                         <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="2s"><b>Phone Number:</b> 0123456789</p>
 
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
                         <div className="">
-                            <img className="card-img-top " src="assets/images/about/5A5A3224.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
+                            <img className="card-img-top " src="assets/images/about/11c7c01f-d6c7-42d4-bebf-16ce5dc7501b.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
                         </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="container fade-in" style={{ marginTop: "100px" }}>
+                <div className="row">
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
+                        <div className="">
+                            <img className="card-img-top " src="assets/images/about/d57306f3-b3c1-404c-9941-a814d4ae7317.jpg" alt="Card image" style={{ width: '50%', borderRadius: '10px', margin: '0 auto' }} />
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4" style={{ margin: '0 auto', textAlign: 'left' }}>
+                        <h4 className="rotateInDownLeft" data-wow-duration="1s" data-wow-delay="0.5s" style={{ color: 'red' }}>Nguyen Khac Duc Anh</h4>
+                        <p className="fade-in-title " data-wow-duration="1s" data-wow-delay="1s"><b>Address:</b> Minh Khai Bac Tu Liem Ha Noi Viet Nam</p>
+                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="1.5s"><b>Email:</b> dungnguyen@gmail.com</p>
+                        <p className="fade-in-title" data-wow-duration="1s" data-wow-delay="2s"><b>Phone Number:</b> 0123456789</p>
                     </div>
                 </div>
             </div>

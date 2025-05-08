@@ -48,17 +48,11 @@ export default function Shop_list({ addToCart }) {
                                 {filteredProducts.length > 0 ? (
                                     filteredProducts.map((item) => (
                                         <div className="col-lg-3 col-md-6" key={item.id}>
-                                            <div className="productItem01 withoutBorder">
+                                            <div className="productItem011 withoutBorder">
                                                 <div className="pThumb">
                                                     <Link to={`/product/${item.id}`}>
                                                         <img src={item.image} alt="" />
                                                     </Link>
-                                                    <div className="piActionBtns">
-                                                        <Link to="#"><i class="fa-regular fa-heart"></i></Link>
-                                                        <Link to="#"><i class="fa-solid fa-shuffle"></i></Link>
-                                                        <a style={{ cursor: 'pointer' }} onClick={() => handleAddToCart(item)}><i class="fa-solid fa-cart-shopping"></i></a>
-                                                        <Link to={`/product/${item.id}`}><i class="fa-solid fa-arrow-right"></i></Link>
-                                                    </div>
                                                 </div>
                                                 <div className="p_content">
                                                     <h4 className="p-title"><a href="#">{item.name}</a></h4>
